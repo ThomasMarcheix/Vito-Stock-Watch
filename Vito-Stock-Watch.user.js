@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         Vito Stock Watch
 // @namespace    casa-vito.stockwatch
-// @version      1.2.3
+// @version      1.2.4
+// @updateURL    https://raw.githubusercontent.com/ThomasMarcheix/Vito-Stock-Watch/main/Vito-Stock-Watch.user.js
+// @downloadURL  https://raw.githubusercontent.com/ThomasMarcheix/Vito-Stock-Watch/main/Vito-Stock-Watch.user.js
 // @description  Private remote stock alerts — no automated game actions
 // @match        https://www.torn.com/*
 // @grant        GM_getValue
